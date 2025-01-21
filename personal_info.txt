@@ -1,2 +1,3 @@
 Name: Anlin Li
 Favorite Subject: Computer Science
+Learning Git is fun!
